@@ -4,6 +4,8 @@ A personalised meal planning mobile application.
 
 Mealo allows users to generate personalised meal plans based on their own preferences, dietary needs and profile.  
 Users can also swap out meals, save recipes to favorites as well as generate new meal plans if desired.
+####
+![](https://i.ibb.co/DPdWS0f/mealo.gif)
 
 ### The tech stack:
 * React Native
